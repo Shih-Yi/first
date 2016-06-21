@@ -2,4 +2,4 @@
 This will be 
 inline.
 
-This is second paragraph.
+<blockquote>This is second paragraph.
